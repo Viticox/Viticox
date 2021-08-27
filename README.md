@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Viticox
+- 👋 Hi, I’m @vjaimes27 twitter
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html5, css and javasccript
-- 💞️ I’m looking to collaborate on web applications
+- 🌱 I’m currently learning phyton and postgresql
+- 💞️ I’m looking to collaborate on web applications 
 - 📫 How to reach me ...
 
 <!---
